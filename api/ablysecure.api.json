@@ -3,6 +3,6 @@
 		"secureId":1,
 		"secureToken":"54a7ds65g465sdg765sdfg65af4g7a645dfga",
 		"secureDesc":"ablyjs secure no 1 ",
-		"secure-Url":"https://github.com/HACKERA316/ablysecure/api/secureList.json?id=googlebotCheckSecure"
+		"secure-Url":"https://raw.githubusercontent.com/HACKERA316/ablySecure/main/api/secureList.json"
 	}
 ]
